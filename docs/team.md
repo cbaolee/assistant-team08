@@ -1,4 +1,4 @@
-# Đội ngũ phát triển (Team NN)
+# Đội ngũ phát triển (Team 08)
 
 Dự án TFT Assistant được xây dựng bởi nhóm 6 thành viên. Dưới đây là cấu trúc phân công thực hiện Pull Request cho bộ khung ban đầu:
 
