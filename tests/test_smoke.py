@@ -1,3 +1,6 @@
+import json
+import os
+
 
 def test_environment_setup():
     """Smoke test cơ bản để đảm bảo test runner hoạt động."""
@@ -7,10 +10,6 @@ def test_dummy_tft_data():
     """Kiểm tra khả năng khởi tạo dữ liệu giả lập cho TFT."""
     dummy_comp = ["Ahri", "Yasuo", "Syndra", "Thresh"]
     assert len(dummy_comp) == 4, "Đội hình giả lập phải có 4 tướng."
-
-import json
-import os
-
 
 def test_lookup_new_comps():
     """Kiểm tra file comps.json hợp lệ và chứa Exalted, Storyweaver."""
