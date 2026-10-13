@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Storyweaver Reroll",
+    "tier": "S",
+    "difficulty": "Easy",
+    "champions": ["Garen", "Sivir", "Riven", "Zyra", "Zoe", "Galio", "Irelia", "Lee Sin"],
+    "traits": ["7 Storyweaver", "2 Duelist", "2 Bruiser"],
+    "main_carry": "Irelia",
+    "carry_items": ["Guinsoo's Rageblade", "Infinity Edge", "Giant Slayer"],
+    "main_tank": "Galio",
+    "tank_items": ["Gargoyle Stoneplate", "Warmog's Armor", "Dragon's Claw"]
+  },
+  {
+    "name": "Exalted Flex",
+    "tier": "A",
+    "difficulty": "Hard",
+    "champions": ["Cho'Gath", "Lux", "Aphelios", "Tahm Kench", "Morgana", "Thresh", "Sett", "Syndra"],
+    "traits": ["5 Exalted", "3 Fated", "2 Ghostly"],
+    "main_carry": "Syndra",
+    "carry_items": ["Blue Buff", "Jeweled Gauntlet", "Nashor's Tooth"],
+    "main_tank": "Tahm Kench",
+    "tank_items": ["Bramble Vest", "Dragon's Claw", "Warmog's Armor"]
+  },
+  {
+    "name": "Heavenly Kayn",
+    "tier": "S",
+    "difficulty": "Medium",
+    "champions": ["Kha'Zix", "Malphite", "Neeko", "Qiyana", "Soraka", "Kayn", "Wukong", "Morgana"],
+    "traits": ["6 Heavenly", "2 Reaper", "2 Sage"],
+    "main_carry": "Kayn",
+    "carry_items": ["Bloodthirster", "Titan's Resolve", "Edge of Night"],
+    "main_tank": "Wukong",
+    "tank_items": ["Thief's Gloves", "Bloodthirster", "Hand of Justice"]
+  },
+  {
+    "name": "Mythic Invoker",
+    "tier": "A",
+    "difficulty": "Medium",
+    "champions": ["Kog'Maw", "Cho'Gath", "Neeko", "Bard", "Lillia", "Nautilus", "Annie", "Azir"],
+    "traits": ["5 Mythic", "4 Invoker"],
+    "main_carry": "Lillia",
+    "carry_items": ["Blue Buff", "Rabadon's Deathcap", "Jeweled Gauntlet"],
+    "main_tank": "Nautilus",
+    "tank_items": ["Gargoyle Stoneplate", "Warmog's Armor", "Redemption"]
+  },
+  {
+    "name": "Porcelain Ashe",
+    "tier": "S",
+    "difficulty": "Medium",
+    "champions": ["Caitlyn", "Lux", "Amumu", "Illaoi", "Ashe", "Nautilus", "Sett", "Lissandra"],
+    "traits": ["4 Porcelain", "4 Sniper", "2 Warden"],
+    "main_carry": "Ashe",
+    "carry_items": ["Guinsoo's Rageblade", "Infinity Edge", "Last Whisper"],
+    "main_tank": "Amumu",
+    "tank_items": ["Gargoyle Stoneplate", "Warmog's Armor", "Bramble Vest"]
+  },
+  {
+    "name": "Ghostly Senna",
+    "tier": "B",
+    "difficulty": "Easy",
+    "champions": ["Caitlyn", "Shen", "Aatrox", "Senna", "Illaoi", "Morgana", "Kayn"],
+    "traits": ["6 Ghostly", "2 Sniper"],
+    "main_carry": "Senna",
+    "carry_items": ["Guinsoo's Rageblade", "Last Whisper", "Infinity Edge"],
+    "main_tank": "Shen",
+    "tank_items": ["Bramble Vest", "Dragon's Claw", "Warmog's Armor"]
+  },
+  {
+    "name": "Fated Aphelios",
+    "tier": "A",
+    "difficulty": "Easy",
+    "champions": ["Ahri", "Yasuo", "Kindred", "Aphelios", "Thresh", "Syndra", "Sett", "Ornn"],
+    "traits": ["7 Fated", "2 Behemoth"],
+    "main_carry": "Aphelios",
+    "carry_items": ["Guinsoo's Rageblade", "Infinity Edge", "Red Buff"],
+    "main_tank": "Thresh",
+    "tank_items": ["Gargoyle Stoneplate", "Warmog's Armor", "Redemption"]
+  },
+  {
+    "name": "Dragonlord Flex",
+    "tier": "S",
+    "difficulty": "Hard",
+    "champions": ["Janna", "Diana", "Lee Sin", "Rakan", "Wukong", "Irelia", "Galio", "Soraka"],
+    "traits": ["4 Dragonlord", "3 Sage", "2 Altruist"],
+    "main_carry": "Irelia",
+    "carry_items": ["Red Buff", "Infinity Edge", "Guardbreaker"],
+    "main_tank": "Diana",
+    "tank_items": ["Crownguard", "Warmog's Armor", "Ionic Spark"]
+  },
+  {
+    "name": "Inkshadow Kai'Sa",
+    "tier": "A",
+    "difficulty": "Medium",
+    "champions": ["Jax", "Aatrox", "Senna", "Volibear", "Kai'Sa", "Udyr", "Xayah", "Ornn"],
+    "traits": ["5 Inkshadow", "2 Trickshot", "2 Behemoth"],
+    "main_carry": "Kai'Sa",
+    "carry_items": ["Spear of Shojin", "Infinity Edge", "Tattoo of Fury"],
+    "main_tank": "Ornn",
+    "tank_items": ["Gargoyle Stoneplate", "Warmog's Armor", "Tattoo of Vitality"]
+  },
+  {
+    "name": "Dryad Gnar",
+    "tier": "B",
+    "difficulty": "Easy",
+    "champions": ["Rek'Sai", "Gnar", "Kindred", "Illaoi", "Ornn", "Sylas", "Azir"],
+    "traits": ["4 Dryad", "4 Warden"],
+    "main_carry": "Gnar",
+    "carry_items": ["Bloodthirster", "Titan's Resolve", "Sterak's Gage"],
+    "main_tank": "Ornn",
+    "tank_items": ["Bramble Vest", "Dragon's Claw", "Redemption"]
+  }
+]
